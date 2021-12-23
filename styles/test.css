@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Roboto&display=swap');
+
+
 :root {
-  background-color: #141414;
+  background-color: #000000;
   box-sizing: border-box;
 }
 
@@ -8,7 +11,6 @@ body {
   padding: 0;
   font-family: "Montserrat", Arial, sans-serif;
 }
-.Char1{margin-left: 75%;}
 button, a {
   font-family: "Montserrat", san-serif;
   font-weight: 500;
@@ -16,7 +18,6 @@ button, a {
   color: #ffff;
   text-decoration: none;
 }
-
 h1 {
   font-size: 2rem;
 }
@@ -28,6 +29,7 @@ header {
   padding: 30px 10%;
   background-color: #030033;
   box-shadow: 0px 0px 20px 0;
+  
 }
 
 .logo {
@@ -69,13 +71,14 @@ button:hover {
   margin: 40px auto;
   max-width: 1000px;
   color: #f0ffff;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
+  font-size: 21px;
 }
 
 
 .body1 {
-  background: #141414;
+  background: #000000;
   color: #fff;
   font-size: 18px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -85,7 +88,7 @@ button:hover {
 /* //agamjot iske colors theek kardiyo */
 .demo-text {
   color: rgb(255, 245, 245);
-  background: #141414;
+  background: #000000;
   text-shadow: 3px 2px 3px rgba(255, 255, 255, 0.2);
 }
 /* Image gallery stlyling */
@@ -340,7 +343,7 @@ section-header {
   text-align: center;
 }
 .body2 {
-  background: #141414;
+  background: #000000;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
